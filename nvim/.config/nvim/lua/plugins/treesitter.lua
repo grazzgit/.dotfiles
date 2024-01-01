@@ -22,6 +22,8 @@ return {
           "vim",
           "bash",
           "json",
+          "markdown",
+          "markdown_inline",
         },
 
         modules = {},
